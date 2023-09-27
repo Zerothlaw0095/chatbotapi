@@ -1,0 +1,10 @@
+body {
+  background-color: #efefff;
+  background-image: repeating-linear-gradient(0deg, transparent, transparent 9px, rgba(0, 0, 0, 0.2) 1px, transparent 10px), repeating-linear-gradient(90deg, transparent, transparent 9px, rgba(0, 0, 0, 0.2) 1px, transparent 10px);
+  background-size: 10px 10px;
+  margin: 0;
+  padding: 0px;
+ 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
